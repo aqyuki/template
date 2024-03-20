@@ -14,7 +14,7 @@ You can create new project by `gonew` from the following command.
 In this time, `<your_project_name> is used to package name when initialize Go.
 
 ```bash
-gonew github.com/aqyuki/template-go <your-project-name> [output directory]
+gonew github.com/aqyuki/template <your-project-name> [output directory]
 ```
 
 ## Recommended configuration for GitHub
