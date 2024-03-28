@@ -1,0 +1,10 @@
+linters:
+  enable-all: false
+  disable-all: true
+  fast: false
+
+  enable:
+    - govet
+    - staticcheck
+    - gofmt
+    - goimports
